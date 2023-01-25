@@ -1,0 +1,14 @@
+{
+    "catData": [
+        { "id":1, "categorieName": "السيارات", "img": "https://back.speed4ever.com/storage/images/category/MgW5XC0DFs5cItCVnwqEoRJKJkOtc08a2RDxihB5.png" },
+        { "id":2, "categorieName": "قطع الغيار", "img": "https://back.speed4ever.com/storage/images/category/FtXEQbfbKcGnaPzZ0fEHIEcJ1RCRkyvCsTJTi93s.png" },
+        { "id":3, "categorieName": "الدراجات", "img": "https://back.speed4ever.com/storage/images/category/Y7MBUMrkQcYUlEfldrRzLS6sH9QDuAfZcjwpxnWc.png" },
+        { "id":4, "categorieName": "ارقام السيارات", "img": "https://back.speed4ever.com/storage/images/category/8gUQT7IB1eGVbspzIVT89oWjtK8RKZMUafMSlSyq.png" },
+        { "id":5, "categorieName": "ارقام الهواتف", "img": "https://back.speed4ever.com/storage/images/category/GPQj9uyiMmyIxhAjo4jLvS8PeE7aN7PHalsCGB9X.png" },
+        { "id":6, "categorieName": "السيارات",  "img": "https://back.speed4ever.com/storage/images/category/MgW5XC0DFs5cItCVnwqEoRJKJkOtc08a2RDxihB5.png"},
+        { "id":7, "categorieName": "قطع الغيار", "img": "https://back.speed4ever.com/storage/images/category/MgW5XC0DFs5cItCVnwqEoRJKJkOtc08a2RDxihB5.png"},
+        { "id":8, "categorieName": "الدراجات",  "img": "https://back.speed4ever.com/storage/images/category/MgW5XC0DFs5cItCVnwqEoRJKJkOtc08a2RDxihB5.png"},
+        { "id":9, "categorieName": "ارقام السيارات",  "img": "https://back.speed4ever.com/storage/images/category/MgW5XC0DFs5cItCVnwqEoRJKJkOtc08a2RDxihB5.png" },
+        { "id":10, "categorieName": "ارقام الهواتف",  "img": "https://back.speed4ever.com/storage/images/category/MgW5XC0DFs5cItCVnwqEoRJKJkOtc08a2RDxihB5.png" }
+      ]
+}
