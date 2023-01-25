@@ -37,6 +37,7 @@
                 :data-bs-slide-to="index"
                 class="active active_btn"
               >
+              <!-- index of slides -->
                 <span> 0{{ index + 1 }}</span>
               </button>
             </div>
