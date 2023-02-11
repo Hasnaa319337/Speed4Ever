@@ -169,16 +169,14 @@ export default {
   color: #c9d5d4;
 }
 .carousel-indicators {
-  position: relative;
-  right: 0 !important;
-  bottom: auto !important;
-  top: 50% !important;
-
-  margin: 0 30px !important;
-  display: flex;
-  // align-items: center;
-  justify-content: start !important;
-  column-gap: 10px;
+  // position: relative;
+  // right: 0 !important;
+  // bottom: auto !important;
+  // top: 50% !important;
+  // margin: 0 30px !important;
+  // display: flex;
+  // justify-content: start !important;
+  // column-gap: 10px;
 }
 .div_dots {
   display: flex;
