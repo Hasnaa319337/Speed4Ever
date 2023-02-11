@@ -163,10 +163,10 @@ export default {
           localStorage.setItem("phone_number", this.form.phone);
 
           this.$toast.success(`You register Successfully`);
-          this.$router.push("/auth/:auth/phone-verification");
+          this.$router.push("/:auth/phone-verification");
         })
-        .catch(() => {
-          this.$toast.error("خطأ");
+        .catch((error) => {
+          this.$toast.error(error);
         });
     },
     confirmation(){
