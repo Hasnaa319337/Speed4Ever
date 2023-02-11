@@ -156,7 +156,7 @@ export default {
 
       this.axios({
         method: "POST",
-        url: "auth/:auth/signup",
+        url: "auth/signup",
         data: form,
       })
         .then(() => {
