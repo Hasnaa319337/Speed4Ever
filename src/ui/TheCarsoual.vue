@@ -37,7 +37,7 @@
                 :data-bs-slide-to="index"
                 class="active active_btn"
               >
-              <!-- index of slides -->
+                <!-- index of slides -->
                 <span> 0{{ index + 1 }}</span>
               </button>
             </div>
@@ -170,13 +170,13 @@ export default {
 }
 .carousel-indicators {
   // position: relative;
-  // right: 0 !important;
-  // bottom: auto !important;
-  // top: 50% !important;
-  // margin: 0 30px !important;
-  // display: flex;
-  // justify-content: start !important;
-  // column-gap: 10px;
+  right: 0 !important;
+  bottom: auto !important;
+  top: 50% !important;
+  margin: 0 30px !important;
+  display: flex;
+  justify-content: start !important;
+  column-gap: 10px;
 }
 .div_dots {
   display: flex;
